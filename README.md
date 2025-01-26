@@ -84,7 +84,7 @@
 | 📦 CI/CD |  ![Abhishek Maurya](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ## 📫 How to reach me
 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maurya9721@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmglm04718@gmail.com)
 
   
 ***
@@ -93,7 +93,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumar-manglam18/)
-[![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishek_maurya576/)
+[![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kmpgrmr?igsh=MW41dTNud3R5MHcybA==)
   
 
 
